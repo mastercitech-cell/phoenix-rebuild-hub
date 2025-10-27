@@ -8,9 +8,10 @@ const About = () => {
         </div>
         
         <p className="text-muted-foreground leading-relaxed max-w-3xl">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet vulputate 
-          tristique quam felis, sit pharetra dui ut vulputate consequat nulla proin. let sit 
-          scelerisque neque auctor turna diam.
+          Final-year Cybersecurity Master's student specializing in threat intelligence and SOC operations. Completed 50+ 
+          CTF challenges and labs across threat hunting, network analysis, and incident response in under 2 months. Strong 
+          technical and cross-functional communicator — delivered security findings to diverse audiences. 
+          Expanding into AI/LLM security: prompt injection, OWASP LLM Top 10, garak framework.
         </p>
       </div>
     </section>
