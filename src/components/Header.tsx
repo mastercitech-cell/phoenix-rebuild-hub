@@ -5,7 +5,7 @@ const Header = () => {
     <header className="fixed top-0 left-0 right-0 z-50 px-6 py-4 bg-background/80 backdrop-blur-sm border-b border-border">
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         <a href="#" className="text-xl font-bold text-foreground hover:text-primary transition-colors">
-          Emad<span className="text-muted-foreground">aimagedy</span>
+          vi5hnu <span className="text-muted-foreground">235p4n</span>
         </a>
         
         <nav className="hidden md:flex items-center gap-8">
